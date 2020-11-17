@@ -1,4 +1,7 @@
 # graduate-helper
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 광운대학교 소프트웨어학부생들에게 KLAS의 수강/성적 Data를 추출하여 졸업요건을 만족하기 위해 남은 이수학점을 영역별로 알려드립니다.
 Python 언어, ChromeDriver 로 설계되었기에 동작을 위해서는 Python 3.8.X , Chrome 의 설치가 필요합니다.
 
@@ -61,3 +64,22 @@ Python의 Selenium과 Requests 모듈을 활용, ChromeDriver를 통해 KLAS 에
 
 
 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/ssahn0806"><img src="https://avatars2.githubusercontent.com/u/28581673?v=4" width="100px;" alt=""/><br /><sub><b>ssahn0806</b></sub></a><br /><a href="#projectManagement-ssahn0806" title="Project Management">📆</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
