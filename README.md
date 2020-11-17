@@ -1,6 +1,6 @@
 # graduate-helper
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 광운대학교 소프트웨어학부생들에게 KLAS의 수강/성적 Data를 추출하여 졸업요건을 만족하기 위해 남은 이수학점을 영역별로 알려드립니다.
 Python 언어, ChromeDriver 로 설계되었기에 동작을 위해서는 Python 3.8.X , Chrome 의 설치가 필요합니다.
@@ -75,6 +75,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/ssahn0806"><img src="https://avatars2.githubusercontent.com/u/28581673?v=4" width="100px;" alt=""/><br /><sub><b>ssahn0806</b></sub></a><br /><a href="#projectManagement-ssahn0806" title="Project Management">📆</a> <a href="https://github.com/ssahn0806/graduate-helper/commits?author=ssahn0806" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/csh970605"><img src="https://avatars0.githubusercontent.com/u/28240052?v=4" width="100px;" alt=""/><br /><sub><b>Choi_Se_Hoon</b></sub></a><br /><a href="#design-csh970605" title="Design">🎨</a></td>
   </tr>
 </table>
 
