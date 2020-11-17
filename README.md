@@ -11,7 +11,7 @@ Python의 Selenium과 Requests 모듈을 활용, ChromeDriver를 통해 KLAS 에
 
 ## 환경 설치
 1. Python 3.8.X 설치 [다운로드](https://www.python.org/downloads/)
-2. Chrome 실행 후 다음을 클릭하여 version [확인](chrome:://version)
+2. Chrome 실행 후 다음을 입력하여 version 확인 (chrome:://version)
 3. version에 맞는 ChromeDriver 설치 [다운로드](https://chromedriver.chromium.org/downloads)
 4. 다음 명령어들을 활용하여 필요한 패키지,모듈 설치
 * pip install selenium
@@ -22,8 +22,8 @@ Python의 Selenium과 Requests 모듈을 활용, ChromeDriver를 통해 KLAS 에
 1. src 폴더 전체를 로컬에 다운로드 합니다.
 2. 본인의 chrome 환경에 맞게 다운로드한 chromedriver.exe 파일을 해당 폴더[src]에 복사합니다.
 3. main.py를 더블클릭하여 실행합니다.
-4. KLAS에 등록된 학번과 비밀번호를 입력 후 수강 확인 버튼을 클릭합니다.
-5. 로그인 정보가 올바를 경우 수초내에 팝업창으로 안내하며, 콘솔창에는 수강한 과목의 정보가 UI창에는 남은 학점의 수치가 나타납니다.
+4. 초기 UI화면에 KLAS에 등록된 학번과 비밀번호를 입력 후 수강 확인 버튼을 클릭합니다.
+5. 로그인 정보가 올바를 경우 수초내에 팝업창을 통해 안내하며, 콘솔창에는 현재까지 수강한 과목의 정보가, UI창에는 남은 학점의 수치가 나타납니다.
 * 본 실행 방법은 프로그램 최초 실행시 도움말 버튼을 통해 확인하실 수도 있습니다.
 
 ## 필독
