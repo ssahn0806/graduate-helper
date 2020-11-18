@@ -1,6 +1,6 @@
 # graduate-helper
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 광운대학교 소프트웨어학부생들에게 KLAS의 수강/성적 Data를 추출하여 
 
@@ -106,10 +106,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/ssahn0806"><img src="https://avatars2.githubusercontent.com/u/28581673?v=4" width="100px;" alt=""/><br /><sub><b>Seung Su Ahn</b></sub></a><br /><a href="#projectManagement-ssahn0806" title="Project Management">📆</a> <a href="https://github.com/ssahn0806/graduate-helper/commits?author=ssahn0806" title="Code">💻</a> <a href="#ideas-ssahn0806" title="Ideas, Planning, & Feedback">🤔</a><a href="https://github.com/ssahn0806/graduate-helper/commits?author=ssahn0806" title="Test">⚠️</a></td>
-    <td align="center"><a href="https://github.com/csh970605"><img src="https://avatars0.githubusercontent.com/u/28240052?v=4" width="100px;" alt=""/><br /><sub><b>Choi_Se_Hoon</b></sub></a><br /><a href="#design-csh970605" title="Design">🎨</a><a href="https://github.com/ssahn0806/graduate-helper/commits?author=csh070605" title="Data">🔣</a> <a href="https://github.com/ssahn0806/graduate-helper/commits?author=csh970605" title="Code">💻</a> <a href="https://github.com/ssahn0806/graduate-helper/commits?author=csh970605" title="Test">⚠️</a></td>
-    <td align="center"><a href="https://github.com/Wjaehyun"><img src="https://avatars2.githubusercontent.com/u/72908405?v=4" width="100px;" alt=""/><br /><sub><b>Jae Hyun Woo</b></sub></a><br /><a href="https://github.com/ssahn0806/graduate-helper/commits?author=Wjaehyun" title="Data">🔣</a> <a href="https://github.com/ssahn0806/graduate-helper/commits?author=Wjaehyun" title="Code">💻</a></td>
-
+    <td align="center"><a href="https://github.com/ssahn0806"><img src="https://avatars2.githubusercontent.com/u/28581673?v=4" width="100px;" alt=""/><br /><sub><b>ssahn0806</b></sub></a><br /><a href="#projectManagement-ssahn0806" title="Project Management">📆</a> <a href="https://github.com/ssahn0806/graduate-helper/commits?author=ssahn0806" title="Code">💻</a> <a href="#ideas-ssahn0806" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/csh970605"><img src="https://avatars0.githubusercontent.com/u/28240052?v=4" width="100px;" alt=""/><br /><sub><b>Choi_Se_Hoon</b></sub></a><br /><a href="#design-csh970605" title="Design">🎨</a> <a href="https://github.com/ssahn0806/graduate-helper/commits?author=csh970605" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Wjaehyun"><img src="https://avatars2.githubusercontent.com/u/72908405?v=4" width="100px;" alt=""/><br /><sub><b>Jae Hyun Woo</b></sub></a><br /><a href="https://github.com/ssahn0806/graduate-helper/commits?author=Wjaehyun" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/pkeugine"><img src="https://avatars0.githubusercontent.com/u/48251668?v=4" width="100px;" alt=""/><br /><sub><b>Eugine Park</b></sub></a><br /><a href="#ideas-pkeugine" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
