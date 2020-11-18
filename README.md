@@ -26,7 +26,7 @@ Python의 Selenium과 Requests 모듈을 활용, ChromeDriver를 통해 KLAS 에
 * pip3 install PyQt5
 
 ## 사용 방법
-1. src 폴더 전체를 로컬에 다운로드 합니다.
+1. src 폴더 내의 src.zip 파일을 로컬에 다운로드 합니다.
 2. 본인의 chrome 환경에 맞게 다운로드한 chromedriver.exe 파일을 해당 폴더[src]에 복사합니다.
 3. main.py를 더블클릭하여 실행합니다.
 4. 초기 UI화면에 KLAS에 등록된 학번과 비밀번호를 입력 후 수강 확인 버튼을 클릭합니다.
