@@ -8,13 +8,18 @@
 
 Python 언어, ChromeDriver 로 설계되었기에 동작을 위해서는 Python 3.8.X , Chrome 의 설치가 필요합니다.
 
+## 설문조사 ( 11.18 19:00 ~ 11.22 23:55)
+현재 학번별 테스트 진행 중입니다. 이용 후 설문조사까지 완료해주세요.[설문하기](https://docs.google.com/forms/d/e/1FAIpQLScN3AGLArUAxJmgXNtVbsIcGQ1M9TCjqopcVZwPOUYV2KWWUw/viewform)
+
 ## 기여
 [여기](https://github.com/ssahn0806/graduate-helper/blob/main/CONTRIBUTING.md)를 참고해 주세요.
 
 ## 프로젝트 내용
 Python의 Selenium과 Requests 모듈을 활용, ChromeDriver를 통해 KLAS 에 접속하고 조회일 기준 학기까지의 수강/성적 Data를 추출한 뒤
 
-학번에 따른 소프트웨어학부 졸업기준, 공학프로그램 기준을 얼만큼 만족하는지 판단하여 잔여 학점을 영역별로 상세하게 알려드립니다. 
+학번에 따른 소프트웨어학부 졸업기준, 공학프로그램 기준을 얼만큼 만족하는지 판단하여 
+
+잔여 학점을 영역별로 상세하게 알려드립니다. 
 
 ## 환경 설치
 1. Python 3.8.X 설치 [다운로드](https://www.python.org/downloads/)
