@@ -7,12 +7,16 @@
 #### 1. UI [여기](https://github.com/ssahn0806/graduate-helper/blob/main/ui/README.md)
 #### 2. 졸업요건
 - 교양 이수체계의 변경으로 16학번 이전의 경우 DB를 구성하는데 정보력의 한계로 어려움에 있습니다.
-- 전문교양 교과과정의 폐지에 따라 18학점 졸업요건 과목을 동일/유사 교과목명으로 대체하여 이수한다.
+##### 전문교양 교과과정의 폐지에 따라 18학점 졸업요건 과목을 동일/유사 교과목명으로 대체하여 이수한다.
 - 위 내용에 해당하는 전문교양 필수 교과과정 표의 정보를 기여해주시면 감사하겠습니다.
-#### 3. 이용 대상 확장[여기](https://github.com/ssahn0806/graduate-helper/blob/main/APPLICATION.md)
-#### 4. 지원 기능 확장[Skill]
-- 현재 개발된 프로그램은 졸업이수 달성 여부를 목적으로 만들어졌으나, 추출한 Data는 각 과목의 취득성적도 포함하고 있기 때문에
+#### 3. 이용 대상 확장 [여기](https://github.com/ssahn0806/graduate-helper/blob/main/APPLICATION.md)
+#### 4. 지원 기능 확장 [Skill]
+- 현재 개발된 프로그램은 졸업이수 달성 여부를 목적으로 만들어졌으나, 추출한 Data는 성적처리가 종료된 학기의
+
+  각 과목에 대해서는 취득성적도 포함하고 있기 때문에
   
-  이를 활용하여 유의미한 정보를 추출 할 수 있습니다.
+  이를 활용하여 유의미한 정보를 추출 할 수 있습니다. GPA 계산 등에 대한 추가적인 기능을 제안해 주시면 감사하겠습니다.
+  
+  ![grade](https://github.com/ssahn0806/graduate-helper/blob/main/image/grade.jpg)
 
 
