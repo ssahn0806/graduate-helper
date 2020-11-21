@@ -31,11 +31,15 @@ Python의 Selenium과 Requests 모듈을 활용, ChromeDriver를 통해 KLAS 에
 * pip3 install PyQt5
 
 ## 사용 방법
-1. src 폴더 내의 src.zip [파일](https://github.com/ssahn0806/graduate-helper/blob/main/src/src.zip)을 로컬에 다운로드 합니다.
-2. 본인의 chrome 환경에 맞게 다운로드한 chromedriver.exe 파일을 해당 폴더[src]에 복사합니다.
-3. main.py를 더블클릭하여 실행합니다.
-4. 초기 UI화면에 KLAS에 등록된 학번과 비밀번호를 입력 후 수강 확인 버튼을 클릭합니다.
-5. 로그인 정보가 올바를 경우 수초내에 팝업창을 통해 안내하며, 콘솔창에는 현재까지 수강한 과목의 정보가, UI창에는 남은 학점의 수치가 나타납니다.
+|1. src 폴더 내의 src.zip [파일](https://github.com/ssahn0806/graduate-helper/blob/main/src/src.zip)을 로컬에 다운로드 합니다.|2.chrome 버젼에 맞는 chromedriver.exe를 복사합니다.|
+|---|---|
+|![download](https://github.com/ssahn0806/graduate-helper/blob/main/image/execute_1.jpg)|![copy](https://github.com/ssahn0806/graduate-helper/blob/main/image/execute_2.jpg)|
+|3. main.py를 더블클릭하여 실행합니다.|4. 학번과 KLAS 비밀번호 입력 후 수강확인 버튼을 클릭합니다.|
+|![execute](https://github.com/ssahn0806/graduate-helper/blob/main/image/execute_3.jpg)|![input](https://github.com/ssahn0806/graduate-helper/blob/main/image/execute_4.jpg)|
+|5. 로그인을 시도합니다.|6. 로그인에 성공시 수초 내에 결과를 나타냅니다.|
+|![popup1](https://github.com/ssahn0806/graduate-helper/blob/main/image/execute_5.jpg)|![popup2](https://github.com/ssahn0806/graduate-helper/blob/main/image/execute_6.jpg)|
+|7. 콘솔창에는 현재까지 수강한 과목의 정보 출력됩니다.| 8. UI창에는 영역별 남은 이수학점등을 출력됩니다.|
+|![result1](https://github.com/ssahn0806/graduate-helper/blob/main/image/result_1.jpg)|![result2](https://github.com/ssahn0806/graduate-helper/blob/main/image/result_2.jpg)|
 
 * 본 실행 방법은 프로그램 최초 실행시 도움말 버튼을 통해 확인하실 수도 있습니다.
 
@@ -60,7 +64,7 @@ Python의 Selenium과 Requests 모듈을 활용, ChromeDriver를 통해 KLAS 에
 
   공학인증 기준학점과 현재까지 이수학점, 잔여학점 제공
 * 현재까지의 수강한 과목 영역별 제공  - 콘솔
-* 추가된 기능
+#### 추가된 기능
 - 로그인 화면에서 Enter 키 활용 가능
 
 ### 영역별 분류기준
