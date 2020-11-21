@@ -38,7 +38,7 @@ Python의 Selenium과 Requests 모듈을 활용, ChromeDriver를 통해 KLAS 에
 |![execute](https://github.com/ssahn0806/graduate-helper/blob/main/image/execute_3.jpg)|![input](https://github.com/ssahn0806/graduate-helper/blob/main/image/execute_4.jpg)|
 |5. 로그인을 시도합니다.|6. 로그인에 성공시 수초 내에 결과를 나타냅니다.|
 |![popup1](https://github.com/ssahn0806/graduate-helper/blob/main/image/execute_5.jpg)|![popup2](https://github.com/ssahn0806/graduate-helper/blob/main/image/execute_6.jpg)|
-|7. 콘솔창에는 현재까지 수강한 과목의 정보 출력됩니다.| 8. UI창에는 영역별 남은 이수학점등을 출력됩니다.|
+|7. 콘솔창에는 현재까지 수강한 과목들이 출력됩니다.| 8. UI창에는 영역별 남은 이수학점등이 출력됩니다.|
 |![result1](https://github.com/ssahn0806/graduate-helper/blob/main/image/result_1.jpg)|![result2](https://github.com/ssahn0806/graduate-helper/blob/main/image/result_2.jpg)|
 
 * 본 실행 방법은 프로그램 최초 실행시 도움말 버튼을 통해 확인하실 수도 있습니다.
@@ -50,7 +50,8 @@ Python의 Selenium과 Requests 모듈을 활용, ChromeDriver를 통해 KLAS 에
 * 이 프로젝트를 불법적인 용도로 사용시 발생하는 문제에 대하여 'graduate-helper'제작자는 어떠한 책임도 지지 않음을 밝힙니다. 
 * 이 프로젝트에서 제공하는 정보는 개인적인 참고 용도로 사용을 권장하며, 공식적인 근거자료로 활용될 수 없습니다.
 ### 이용대상
-* 우선적으로 소프트웨어학부로 입학한 16학번 이상의 학생들을 이용 가능 대상으로 합니다.
+* 16학번 이상 광운대학교 학생 누구나
+* 우선적으로 소프트웨어학부로 입학한 16학번 이상의 학생들에 대해서 정확한 결과를 얻을 수 있습니다.(주의사항 참조)
 ### 기능
 1.기존 KLAS의 공학프로그램 이수현황과 수강/성적 조회를 별도로 확인해야하는 점
 
