@@ -8,8 +8,10 @@
 
 Python 언어, ChromeDriver 로 설계되었기에 동작을 위해서는 Python 3.8.X , Chrome 의 설치가 필요합니다.
 
-## 설문조사 ( 11.18 19:00 ~ 11.22 23:55)
-현재 학번별 테스트 진행 중입니다. 이용 후 설문조사까지 완료해주세요.[설문하기](https://docs.google.com/forms/d/e/1FAIpQLScN3AGLArUAxJmgXNtVbsIcGQ1M9TCjqopcVZwPOUYV2KWWUw/viewform)
+
+~~## 설문조사 ( 11.18 19:00 ~ 11.22 23:55)
+현재 학번별 테스트 진행 중입니다. 이용 후 설문조사까지 완료해주세요.[설문하기](https://docs.google.com/forms/d/e/1FAIpQLScN3AGLArUAxJmgXNtVbsIcGQ1M9TCjqopcVZwPOUYV2KWWUw/viewform)~~
+##### 설문조사기간이 종료되었습니다.
 
 ## 기여
 [여기](https://github.com/ssahn0806/graduate-helper/blob/main/CONTRIBUTING.md)를 참고해 주세요.
