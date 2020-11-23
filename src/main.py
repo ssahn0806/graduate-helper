@@ -222,13 +222,17 @@ class ResultUI(QWidget):
                         string = "만족"
                         if i == 3:
                             string = "-"
-                    elif i == 6:
-                        if self.current_counts[5] >= 12 and self.remain_value[5] == 0:
-                            string = "만족"
-                        else:
-                            string = "캡스톤 미이수"
+                        elif i == 6:
+                            if self.current_counts[5] >= 12 and self.remain_value[5] == 0:
+                                string = "만족"
+                            else:
+                                string = "캡스톤 미이수"
                     else:
                         string = "-"
+                        if i==6:
+                            if self.remain_value[5] > 0:
+                                string = "캡스톤 미이수"
+
                 item = QTableWidgetItem(str(string))
                 ###
                 # 수정 금지
