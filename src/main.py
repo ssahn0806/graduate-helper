@@ -579,12 +579,16 @@ class Data:
                             if (gwamok['codeName1'] == "전선"):
                                 self.count_hakjum[6] += gwamok['hakjumNum']
                                 self.count_names[6].append(gwamok['gwamokKname'])
-                            elif (gwamok['codeName1'] == "일선"):
+                            elif (gwamok['codeName1'] == "일선" or gwamok['codeName1'] == "기선" or gwamok['codeName1'] == "기필"):
                                 self.count_hakjum[9] += gwamok['hakjumNum']
                                 self.count_names[9].append(gwamok['gwamokKname'])
                             elif (gwamok['codeName1'] == "교선"):
                                 self.count_names[2].append(gwamok['gwamokKname'])
                                 self.count_hakjum[2] += gwamok['hakjumNum']
+                            elif (gwamok['codeName1'] == "교필"):
+                                self.count_names[0].append(gwamok['gwamokKname'])
+                                self.count_hakjum[0] += gwamok['hakjumNum']
+
                     # 필수교양,균형교양,기초수학,기초과학,전공필수,전공선택 계산
                     elif (gwamok['hakjungNo'][7:11] in self.culture_RDB):  # 필수교양 계산
                         if (gwamok['getGrade'] in self.Grade):  # 수강과목의 마감 성적이 재수강,NP,F인 경우는 카운트 제외
