@@ -39,26 +39,6 @@ Python의 Selenium과 Requests 모듈을 활용, ChromeDriver를 통해 KLAS 에
 * pip3 install PyQt5
 
 ## 사용 방법
-|1. src 폴더 내의 src.zip [파일](https://github.com/ssahn0806/graduate-helper/blob/main/src/src.zip)을 로컬에 다운로드 합니다.|2.chrome 버젼에 맞는 chromedriver.exe를 복사합니다.|
-|---|---|
-|![download](https://github.com/ssahn0806/graduate-helper/blob/main/image/execute_1.jpg)|![copy](https://github.com/ssahn0806/graduate-helper/blob/main/image/execute_2.jpg)|
-|3. main.py를 더블클릭하여 실행합니다.|4. 학번과 KLAS 비밀번호 입력 후 수강확인 버튼을 클릭합니다.|
-|![execute](https://github.com/ssahn0806/graduate-helper/blob/main/image/execute_3.jpg)|![input](https://github.com/ssahn0806/graduate-helper/blob/main/image/execute_4.jpg)|
-|5. 로그인을 시도합니다.|6. 로그인에 성공시 수초 내에 결과를 나타냅니다.|
-|![popup1](https://github.com/ssahn0806/graduate-helper/blob/main/image/execute_5.jpg)|![popup2](https://github.com/ssahn0806/graduate-helper/blob/main/image/execute_6.jpg)|
-|7. 콘솔창에는 현재까지 수강한 과목들이 출력됩니다.| 8. UI창에는 영역별 남은 이수학점등이 출력됩니다.|
-|![result1](https://github.com/ssahn0806/graduate-helper/blob/main/image/result_1.jpg)|![result2](https://github.com/ssahn0806/graduate-helper/blob/main/image/result_2.jpg)|
-
-* 본 실행 방법은 프로그램 최초 실행시 도움말 버튼을 통해 확인하실 수도 있습니다.
-### 결과 해석
-재수강하여 삭제되었거나 미이수(F 또는 NP) 과목은 표시,계산되지 않습니다. 
-
-조회시점에 따라 수강/성적조회에 표시되는 현재 재학중인 학기(성적처리 X)까지 데이터를 포함하여 계산하므로 
-
-주어진 정보를 통해 졸업까지 남은 학기동안의 수강신청 계획을 세울 수 있습니다.
-### 주의사항
-* 각 영역별 DB는 소프트웨어학부 졸업요건을 기준으로 하여, 타학과 학생의 결과의 정확도는 보장될 수 없습니다.
-* 배포 초기에는 표본이 부족하여 결과가 정확하지 않을 수도 있습니다.(16~19학번 정상작동 테스트 완료)
 
 ### 이용대상
 * 16학번 이상 광운대학교 학생 누구나
@@ -79,6 +59,28 @@ Python의 Selenium과 Requests 모듈을 활용, ChromeDriver를 통해 KLAS 에
 * 현재까지의 수강한 과목 영역별 제공  - 콘솔
 #### 추가된 기능
 - 로그인 화면에서 Enter 키 활용 가능
+
+|1. src 폴더 내의 src.zip [파일](https://github.com/ssahn0806/graduate-helper/blob/main/src/src.zip)을 로컬에 다운로드 합니다.|2.chrome 버젼에 맞는 chromedriver.exe를 복사합니다.|
+|---|---|
+|![download](https://github.com/ssahn0806/graduate-helper/blob/main/image/execute_1.jpg)|![copy](https://github.com/ssahn0806/graduate-helper/blob/main/image/execute_2.jpg)|
+|3. main.py를 더블클릭하여 실행합니다.|4. 학번과 KLAS 비밀번호 입력 후 수강확인 버튼을 클릭합니다.|
+|![execute](https://github.com/ssahn0806/graduate-helper/blob/main/image/execute_3.jpg)|![input](https://github.com/ssahn0806/graduate-helper/blob/main/image/execute_4.jpg)|
+|5. 로그인을 시도합니다.|6. 로그인에 성공시 수초 내에 결과를 나타냅니다.|
+|![popup1](https://github.com/ssahn0806/graduate-helper/blob/main/image/execute_5.jpg)|![popup2](https://github.com/ssahn0806/graduate-helper/blob/main/image/execute_6.jpg)|
+|7. 콘솔창에는 현재까지 수강한 과목들이 출력됩니다.| 8. UI창에는 영역별 남은 이수학점등이 출력됩니다.|
+|![result1](https://github.com/ssahn0806/graduate-helper/blob/main/image/result_1.jpg)|![result2](https://github.com/ssahn0806/graduate-helper/blob/main/image/result_2.jpg)|
+
+* 본 실행 방법은 프로그램 최초 실행시 도움말 버튼을 통해 확인하실 수도 있습니다.
+### 결과 해석
+재수강하여 삭제되었거나 미이수(F 또는 NP) 과목은 표시,계산되지 않습니다. 
+
+조회시점에 따라 수강/성적조회에 표시되는 현재 재학중인 학기(성적처리 X)까지 데이터를 포함하여 계산하므로 
+
+주어진 정보를 통해 졸업까지 남은 학기동안의 수강신청 계획을 세울 수 있습니다.
+
+### 주의사항
+* 각 영역별 DB는 소프트웨어학부 졸업요건을 기준으로 하여, 타학과 학생의 결과의 정확도는 보장될 수 없습니다.
+* 배포 초기에는 표본이 부족하여 결과가 정확하지 않을 수도 있습니다.(16~19학번 정상작동 테스트 완료)
 
 ### 영역별 분류기준
 영역별 이수 기준은 수강신청자료집의 학번별 졸업이수요건과 인정과목을 기준으로 합니다. 
